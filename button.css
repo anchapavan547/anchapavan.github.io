@@ -151,7 +151,8 @@ button{
     background: transparent;
 }
 button a{
-    font-size: 25px;
-    color: #fff;
+    font-size: 80px;
+    color: #66ffff;
     text-decoration: none;
+    box-shadow: 10px 10px 10px #66ffff;
 }
